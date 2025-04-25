@@ -28,6 +28,13 @@
     "accountId": "a5630c65-3bc3-4ec4-aab7-e44527804314"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../OneDrive/Escritorio/add-prisma-cloud-users.adoc" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -46,9 +53,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Wil/vscode-js-debug/src/common/logging",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "C:/Users/Wil/OneDrive/Escritorio/userInfo.json",
+    "settings.editor.selected.configurable": "com.bridgecrew.settings.PrismaSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
